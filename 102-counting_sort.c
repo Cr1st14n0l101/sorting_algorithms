@@ -16,7 +16,7 @@ void counting_sort(int *array, size_t size)
 		if (array[i] > max)
 			max = array[i];
 	}
-	
+
 	max++;
 	tmp = malloc(sizeof(int) * max);
 	if (!tmp)
