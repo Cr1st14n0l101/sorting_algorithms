@@ -2,6 +2,8 @@
 #define _SORTING_ALGORITHMS
 
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
 /**
  * struct listint_s - Doubly linked list node
@@ -30,5 +32,6 @@ void _qsort(int *array, size_t size, ssize_t low, ssize_t hight);
 size_t to_lomuto(int *array, size_t size, ssize_t low, ssize_t hight);
 void swap(int *array, size_t size, int *a, int *b);
 void shell_sort(int *array, size_t size);
+void counting_sort(int *array, size_t size);
 
 #endif
