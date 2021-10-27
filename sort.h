@@ -32,5 +32,8 @@ size_t to_lomuto(int *array, size_t size, ssize_t low, ssize_t hight);
 void swap(int *array, size_t size, int *a, int *b);
 void shell_sort(int *array, size_t size);
 void counting_sort(int *array, size_t size);
+void merge_sort(int *array, size_t size);
+void divide_array(int *array, int *tmp, size_t size);
+void merge_array(int *array, int *tmp_l, size_t size_l, size_t size_r);
 
 #endif
