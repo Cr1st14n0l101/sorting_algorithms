@@ -2,7 +2,7 @@
     <a href=#><img src="https://raw.githubusercontent.com/jbocane6/logos/main/holberton-logo.png" alt="holberton" /></a></p>
   
   <p align="center">
-    <img align="center" src="https://github.com/Cr1st14n0l101/images/blob/master/pp.jpg" alt="Cristian" width="150" height="150" />
+    <img align="center" src="https://github.com/Cr1st14n0l101/images/blob/master/pp.jpg" alt="Cristian" width="100" height="100" />
     <a href="https://twitter.com/Cristia27036897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Cristia27036897" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/cristian-david-oliveros-alfonso-666a131b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian-david-oliveros-alfonso-666a131b6" height="30" width="40" /></a>
     <a href="https://github.com/Cr1st14n0l101" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" alt="Github Cristian" height="30" width="40" /></a>
